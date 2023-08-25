@@ -101,7 +101,7 @@ export class DialogEditUserComponent {
    * // check if guest user is logged-in. This is important, because the guest user is not allowed to edit his profile.
    */
   checkIfGuestUserIsActive() {
-    if (this.currentUserId$ === 'FX6K2L7Xbgfouk3qmpCisBO1eT42') {
+    if (this.currentUserId$ === 'YtFhWSlKj2gDLqLORwbYweBsEKa2') {
       this.isGuestUserActive = true;
     }
   }
